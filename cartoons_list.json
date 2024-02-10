@@ -22,8 +22,15 @@
     "ImdbRates":9.3 ,
     "stars":["  Dee Bradley Baker", "Zach Tyler Eise", "  Mae Whitman", " Jack De Sena"]
 
-}
+},
+{
+    "cartoonsName":"  The Simpsons",
+    "description":"The satiric adventures of a working-class family in the misfit city of Springfield.",
+    "releaseDate":1989,
+    "ImdbRates":8.7 ,
+    "stars":[" Dan Castellaneta", "Nancy Cartwright", "  Harry Shearer", "Julie Kavner"]
 
+}
 
 
 ]
