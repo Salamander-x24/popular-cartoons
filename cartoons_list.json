@@ -6,6 +6,15 @@
     "ImdbRates":9.1 ,
     "stars":["Chris Parnell", "Spencer Grammer", "Sarah Chalke", "Justin Roiland"]
 
+},
+{
+    "cartoonsName":" Family Guy ",
+    "description":"n a wacky Rhode Island town, a dysfunctional family strives to cope with everyday life as they are thrown from one crazy scenario to another.",
+    "releaseDate":1999,
+    "ImdbRates":8.2 ,
+    "stars":[" Seth MacFarlane", "Alex Borstein", " Seth Green", " Mila Kunis"]
+
 }
+
 
 ]
