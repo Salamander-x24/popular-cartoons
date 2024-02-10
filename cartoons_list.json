@@ -14,7 +14,16 @@
     "ImdbRates":8.2 ,
     "stars":[" Seth MacFarlane", "Alex Borstein", " Seth Green", " Mila Kunis"]
 
+},
+{
+    "cartoonsName":"  Avatar: The Last Airbender ",
+    "description":"In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+    "releaseDate":2005,
+    "ImdbRates":9.3 ,
+    "stars":["  Dee Bradley Baker", "Zach Tyler Eise", "  Mae Whitman", " Jack De Sena"]
+
 }
+
 
 
 ]
